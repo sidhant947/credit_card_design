@@ -1,7 +1,12 @@
 
 # Credit Card Design
 
-A basic Credit Card Design for Potrait and Landscape Card
+A basic Glass Credit Card Design for Potrait and Landscape Card
+
+<img src="https://github.com/user-attachments/assets/ee57e440-7156-4102-88fa-f0db31af4b69" height="250"> ![landscape](https://github.com/user-attachments/assets/5110a219-d65c-4ea3-9829-5bfec949899c)
+
+
+
 
 ## Installation 
 
@@ -22,3 +27,4 @@ import 'package:credit_card_design/credit_card_design.dart';
 There are a number of properties that you can modify:
 
 
+![code](https://github.com/user-attachments/assets/94bfbf82-6596-4854-ba8d-868ef545835f)
