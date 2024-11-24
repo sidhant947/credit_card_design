@@ -1,7 +1,7 @@
 name: credit_card_design
 description: "A basic Credit Card Design for Potrait and Landscape Card"
 version: 0.0.1
-homepage:
+homepage: https://github.com/sidhant947/credit_card_design
 
 environment:
   sdk: ^3.5.4
